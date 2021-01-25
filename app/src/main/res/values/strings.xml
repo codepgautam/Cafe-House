@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Cafe House</string>
+    <string name="cafe_house">Cafe House</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="already_login">Skip</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="last_name">Your Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="choose_password">Phone Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="e_mail_address">E-mail Address</string>
+    <string name="password">Password</string>
+    <string name="or_with">Or With</string>
+    <string name="already_have_account_login">Already have account? Login</string>
+    <string name="title_activity_fooditem">FooditemActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_maincourse">Main Course</string>
+    <string name="menu_starter">Starter</string>
+    <string name="menu_dessert">Dessert</string>
+    <string name="menu_drinks">Drinks</string>
+    <string name="menu_brivereges">Brivereges</string>
+    <string name="title_activity_foods_item">activity_foods_item</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_efwwfwfss">efwwfwfss</string>
+    <string name="recommened_for_you">Recommened for You</string>
+    <string name="facebook_app_id">1051855221892497</string>
+    <string name="fb_login_protocol_scheme">fb1051855221892497</string>
+
+</resources>

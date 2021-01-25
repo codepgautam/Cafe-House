@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48574688120",
+    "firebase_url": "https://coffeehouse-f4529-default-rtdb.firebaseio.com",
+    "project_id": "coffeehouse-f4529",
+    "storage_bucket": "coffeehouse-f4529.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48574688120:android:f0e8caa22048d502d9768d",
+        "android_client_info": {
+          "package_name": "com.example.coffeehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48574688120-l36tu3a8btet0ojbj1obhk9ts6ii43m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1080Mq7WrvEdTYOLGrVxos7jCyZnVFH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48574688120-l36tu3a8btet0ojbj1obhk9ts6ii43m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
